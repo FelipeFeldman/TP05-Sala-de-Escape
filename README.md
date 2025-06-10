@@ -52,3 +52,45 @@ Si el jugador examina la nota con atención, puede ver en letra más pequeña:
 
 *Lo que también apunta a la metáfora del aire = salida.*
 
+##El jugador entra en una habitacion de limpieza y ve una puerta con candado, por lo que encuentra una nota que dice:
+
+"Primero llega quien despierta al gallo,
+ luego el que carga el mundo en su espalda,
+ y por último los que caminan entre las sombras,
+ cuando ya nadie los ve."
+
+ **Encuentra una lista de los turnos de los guardias**
+
+ **Guardia   Turno**
+ Miller    | Noche
+ Torres    | Mañana
+ Foster    | Tarde
+ Jackson   | Noche
+
+ El jugador tiene que relacionar ambos datos y darse cuenta que esto puede hacer un codigo
+
+ por lo que el codigo correcto es **2314** o **2341**
+
+ ## Por ultimo esta en la puerta de la salida, pero antes hay una respuesta que solo los guardias la saben ##
+
+ **El jugador tiene una pista y 90 segundos para adivinar**
+ la pista dice:
+   "Conmigo, no hay afuera. Me levanto con ladrillos y barrotes, 
+   y aunque me odies, soy tu única realidad.
+   Algunos me decoran, otros me maldicen,
+   pero todos los que anhelan la libertad,
+   primero deben enfrentarme."
+   
+ ¿Qué soy?
+
+ **Tendra que pensar que es y deducir que la respuesta es:**
+ 
+ Celda o celda.
+
+ 
+
+
+ 
+
+
+ 
