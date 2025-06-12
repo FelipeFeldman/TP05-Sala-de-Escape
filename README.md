@@ -54,22 +54,23 @@ Si el jugador examina la nota con atención, puede ver en letra más pequeña:
 
 ##El jugador entra en una habitacion de limpieza y ve una puerta con candado, por lo que encuentra una nota que dice:
 
-"Primero llega quien despierta al gallo,
- luego el que carga el mundo en su espalda,
- y por último los que caminan entre las sombras,
- cuando ya nadie los ve."
+El jugador entra en una habitación de limpieza y ve una puerta con candado, por lo que encuentra una nota que dice:
+"Primero llega quien despierta al gallo, luego el que carga el mundo en su espalda, después quien trabaja bajo el sol ardiente, y por último los que caminan entre las sombras, cuando ya nadie los ve."
 
- **Encuentra una lista de los turnos de los guardias**
+Encuentra una lista de los turnos de los guardias:
 
- **Guardia   Turno**
- Miller    | Noche
- Torres    | Mañana
- Foster    | Tarde
- Jackson   | Noche
+Guardia - Turno
+Miller | Madrugada
+Torres | Mañana
+Foster | Tarde
+Jackson | Noche
 
- El jugador tiene que relacionar ambos datos y darse cuenta que esto puede hacer un codigo
+El jugador tiene que relacionar ambos datos y darse cuenta que esto puede formar un código.
 
- por lo que el codigo correcto es **2314** o **2341**
+El código correcto es 2314.
+
+(1 = Miller, 2 = Torres, 3 = Foster, 4 = Jackson)
+Orden: Mañana (Torres), Madrugada (Miller), Tarde (Foster), Noche (Jackson) → 2314.
 
  ## Por ultimo esta en la puerta de la salida, pero antes hay una respuesta que solo los guardias la saben ##
 
